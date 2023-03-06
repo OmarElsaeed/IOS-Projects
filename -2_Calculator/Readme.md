@@ -3,7 +3,7 @@
 
 
 ## Finished App
-![Finished App]((https://github.com/OmarElsaeed/Images/blob/main/Calculator.gif)
+![Finished App](https://github.com/OmarElsaeed/Images/blob/main/Calculator.gif)
 
 
 
