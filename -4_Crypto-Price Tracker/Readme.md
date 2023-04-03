@@ -1,7 +1,7 @@
 # Calculator
 
 - "Crypto Price" is an app which pulling the crypto currencies prices from the web and displaying it on the screen
-##### the app is updated every 10 seconds
+#### the app is updated every 10 seconds
 
 
 ## Finished App
